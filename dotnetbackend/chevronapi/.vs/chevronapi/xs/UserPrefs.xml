@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{CA075B77-31E7-493E-92F2-7AE7CFF882D9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chevronapi/Models/Person.cs">
+    <Files>
+      <File FileName="chevronapi/Controllers/PersonsController.cs" Line="40" Column="10" />
+      <File FileName="chevronapi/Services/DataContext.cs" />
+      <File FileName="chevronapi/Models/Person.cs" Line="14" Column="2" />
+      <File FileName="chevronapi/appsettings.json" />
+      <File FileName="chevronapi/Program.cs" />
+      <File FileName="chevronapi/Repository/Myrepo.cs" Line="16" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chevronapi" expanded="True">
+            <Node name="chevronapi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Person.cs" selected="True" />
+              </Node>
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.chevronapi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
